@@ -68,4 +68,5 @@ if (num1 === 7 || num1 === 49){
 }
 else { 
     console.log("That's not a lucky number")
-}
+
+consologe.log('hi')
